@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+$primary-font: 18px;
+$secondary-font: 17px;
+$heading-main: 40px;
+$small-heading: 32px;
+$primary-color: #FFF;
+$black: #000;
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: $primary-color;
+}
